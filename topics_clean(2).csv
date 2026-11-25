@@ -1,0 +1,82 @@
+problem_id,topic
+30,brute force
+30,implementation
+30,math
+31,binary search
+31,data structures
+31,strings
+32,bitmasks
+32,combinatorics
+33,implementation
+34,combinatorics
+34,math
+34,strings
+35,geometry
+35,math
+36,constructive algorithms
+36,data structures
+36,greedy
+36,trees
+37,dynamic programming
+37,implementation
+38,counting
+38,sliding window
+38,strings
+38,two pointers
+39,implementation
+39,interactive
+40,combinatorics
+40,geometry
+40,math
+40,probabilities
+41,data structures
+41,dynamic programming
+41,trees
+42,greedy
+42,implementation
+43,geometry
+43,math
+44,constructive algorithms
+44,games
+44,greedy
+45,bitmasks
+45,combinatorics
+45,math
+46,binary search
+46,data structures
+46,greedy
+47,dynamic programming
+47,geometry
+47,shortest paths
+48,brute force
+48,greedy
+48,strings
+49,geometry
+49,math
+49,sweep line
+50,dynamic programming
+50,number theory
+50,trees
+51,geometry
+51,greedy
+51,math
+52,combinatorics
+52,dynamic programming
+52,number theory
+53,implementation
+53,math
+54,dynamic programming
+54,expected value
+54,probabilities
+55,constructive algorithms
+55,greedy
+55,sortings
+56,bitwise operations
+56,constructive algorithms
+56,greedy
+57,bitwise operations
+57,dfs and similar
+57,graphs
+58,combinatorics
+58,dynamic programming
+58,math
